@@ -4,16 +4,17 @@
 
 ## what can you do or see
 1. search by name
-2. dinamic search by letter not word or sentence
-3. show alert when form input emphty
-4. show result of search whether it success or not
-5. show limit result (4) if success
-6. dinamic pagination buttons as condition of the next and prev page availability 
-7. pin location on map based lat & lang rendered data
-8. pop up location detail/info when pin hovered
-9. route to detail page through pin of map clicked
-10. route to detail page
-11. render detail info
-12. dinamic map pin, unable to click on page ditail different with homepage which is clickable
-13. back to homepage through breadcrumb
-14. images carousel
+2. search name by category
+3. dinamic search by letter not word or sentence
+4. show alert when form input emphty
+5. show result of search whether it success or not
+6. show limit result (4) if success
+7. dinamic pagination buttons as condition of the next and prev page availability 
+8. pin location on map based lat & lang rendered data
+9. pop up location detail/info when pin hovered
+10. route to detail page through pin of map clicked
+11. route to detail page
+12. render detail info
+13. dinamic map pin, unable to click on page ditail different with homepage which is clickable
+14. back to homepage through breadcrumb
+15. images carousel
