@@ -2,7 +2,7 @@
 
 ## WARNING!! the endpoints doesn't have search and pagination feature, so search and pagination done manualy using js not by giving query parameter while calling endpoints as result it effects to the performace a lot.
 
-## what can you do or see
+## what you can do or see
 1. search by name
 2. search name by category
 3. dinamic search by letter not word or sentence
@@ -13,7 +13,7 @@
 8. pin location on map based lat & lang rendered data
 9. pop up location detail/info when pin hovered
 10. route to detail page through pin of map clicked
-11. route to detail page
+11. route to detail page through data card
 12. render detail info
 13. dinamic map pin, unable to click on page ditail different with homepage which is clickable
 14. back to homepage through breadcrumb
