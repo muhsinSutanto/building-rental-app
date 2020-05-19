@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/building-rental-app/static/css/main.e156909f.chunk.css",
+    "main.js": "/building-rental-app/static/js/main.2cdb8805.chunk.js",
+    "main.js.map": "/building-rental-app/static/js/main.2cdb8805.chunk.js.map",
+    "runtime-main.js": "/building-rental-app/static/js/runtime-main.5c7ab1d9.js",
+    "runtime-main.js.map": "/building-rental-app/static/js/runtime-main.5c7ab1d9.js.map",
+    "static/js/2.fa509445.chunk.js": "/building-rental-app/static/js/2.fa509445.chunk.js",
+    "static/js/2.fa509445.chunk.js.map": "/building-rental-app/static/js/2.fa509445.chunk.js.map",
+    "index.html": "/building-rental-app/index.html",
+    "precache-manifest.b9fb2ba66d173efec172c8199a6c8f71.js": "/building-rental-app/precache-manifest.b9fb2ba66d173efec172c8199a6c8f71.js",
+    "service-worker.js": "/building-rental-app/service-worker.js",
+    "static/css/main.e156909f.chunk.css.map": "/building-rental-app/static/css/main.e156909f.chunk.css.map",
+    "static/js/2.fa509445.chunk.js.LICENSE.txt": "/building-rental-app/static/js/2.fa509445.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c7ab1d9.js",
+    "static/js/2.fa509445.chunk.js",
+    "static/css/main.e156909f.chunk.css",
+    "static/js/main.2cdb8805.chunk.js"
+  ]
+}
