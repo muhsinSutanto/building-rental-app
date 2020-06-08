@@ -1,6 +1,6 @@
 ##react-rental-app
 
-## WARNING!! the endpoints doesn't have search and pagination feature, so search and pagination done manualy using js not by giving query parameter while calling endpoints as result it effects to the performace a lot.
+## WARNING!! the endpoints doesn't have search and pagination feature, so search and pagination done manualy in the front-side not by giving query parameter while calling endpoints as result it effects to the performace a lot.
 
 ### https://buiding-rental-app.herokuapp.com/
 
